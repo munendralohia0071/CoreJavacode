@@ -20,6 +20,7 @@ public class Conditional_SwitchExampleTwo
 							break;
 
 			default :  System.out.println("Please choose valid BrowserName");
+			System.out.println("Please choose valid BrowserName");
 			
 			}
 			
